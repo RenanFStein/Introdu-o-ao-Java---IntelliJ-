@@ -8,12 +8,9 @@ public class PrimeiroPrograma {
         System.out.println(gato);
         System.out.println("Renan");
 
-        String nome;
-        int numPaginas;
-        Livro livro1 = new Livro(nome="Livro Teste", numPaginas= 150);
-        System.out.println(livro1);
-
-
+        Livro livro1 = new Livro("Teste do livro", 160);
+        System.out.println(livro1.getNome());
+        System.out.println(livro1.getNumPaginas());
     }
 
 }
