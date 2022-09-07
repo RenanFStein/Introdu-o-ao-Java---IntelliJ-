@@ -1,18 +1,18 @@
 # Introdução ao Java - IntelliJ
 
 
-#talhos do IntelliJ Idea
-##Geral
+# talhos do IntelliJ Idea
+## Geral
 
 Alt + 1: Focar aba de projetos
 Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
 Ctrl + Shift + F12: Expandir a tela
 
-##Na aba de projetos
+## Na aba de projetos
 
 Alt + Insert: Para criar um novo arquivo
 
-##Templates de código
+## Templates de código
 
 psvm: Criar método main
 sout: System.out.println()
@@ -22,7 +22,7 @@ Ctrl + Alt + V: Cria variável (precisa estar sobre código que permite atribui�
 Ctrl + Alt + T: Templates de IF, for, while, etc (precisa selecionar o código antes)
 Ctrl + J: Exibe todos os templates disponíveis
 
-##Na aba de código
+## Na aba de código
 
 Ctrl + Y: Apaga a linha inteira
 Ctrl + D: Duplicar linha atual
